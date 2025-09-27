@@ -86,7 +86,7 @@ Todos os artefatos do projeto estão disponíveis neste repositório.
 
 | Artefato | Nome do Arquivo / Localização | Descrição |
 | :--- | :--- | :--- |
-| **Lean Inception & MVP Canvas (Miro)** | `lean-inception-Booksync.pdf` | Contém todas as etapas da Lean Inception e o MVP Canvas, conforme a atividade. |
-| **Backlog do Produto (Jira)** | `backlog-bookSync.pdf` | Épicos (BSYNC-1 a BSYNC-4), Histórias de Usuário e Enablers, incluindo DoR e DoD. |
-| **Backlog da Sprint 1 (Jira)** | `backlog-bookSync.pdf` | Detalhamento das Histórias de Usuário (ex: BSYNC-5, BSYNC-6, BSYNC-7, BSYNC-8, BSYNC-9) com Estimativas (Story Points: 5, 3, 5, 5, 2, respectivamente) e Critérios de Aceitação. |
+| **Lean Inception & MVP Canvas (Miro)** | `lean-inception-bookSync.pdf` | Contém todas as etapas da Lean Inception e o MVP Canvas, conforme a atividade. |
+| **Backlog do Produto (Jira)** | `backlog-booksync.pdf` | Épicos (BSYNC-1 a BSYNC-4), Histórias de Usuário e Enablers, incluindo DoR e DoD. |
+| **Backlog da Sprint 1 (Jira)** | `backlog-booksync.pdf` | Detalhamento das Histórias de Usuário (ex: BSYNC-5, BSYNC-6, BSYNC-7, BSYNC-8, BSYNC-9) com Estimativas (Story Points: 5, 3, 5, 5, 2, respectivamente) e Critérios de Aceitação. |
 | **Protótipos de Interface (Figma)** | `wireframes-booksync.pdf` | Protótipos de Baixa Fidelidade (wireframes) para Cadastro, Login, Busca, Avaliação e Dashboard (itens da Sprint 1). |
